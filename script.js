@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function () {
             technologies: ["Java", "JSP", "MySQL", "HTML", "CSS"],
             github: "https://github.com/vignesh-chowdary/bus-ticket-booking-system",
             live: "",
-            image: "images/bus.png"
+            image: "bus.png"
         },
         {
             title: "Automated OCR Mark Extractor",
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
             technologies: ["Python", "YOLOv9", "Transformers", "OpenCV"],
             github: "#",
             live: "",
-            image: "images/ocr.png"
+            image: "ocr.png"
         },
         {
             title: "Health Tracker",
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function () {
             technologies: ["HTML", "CSS", "JavaScript", "Chart.js"],
             github: "",
             live: "",
-            image: "images/health.png"
+            image: "health.png"
         }
     ];
 
@@ -180,3 +180,4 @@ document.addEventListener('DOMContentLoaded', function () {
     renderSkills();
     renderProjects();
 });
+
